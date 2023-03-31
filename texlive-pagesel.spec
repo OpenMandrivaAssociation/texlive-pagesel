@@ -1,6 +1,6 @@
 Name:		texlive-pagesel
 Version:	56105
-Release:	1
+Release:	2
 Summary:	Select pages of a document for output
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pagesel
