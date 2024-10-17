@@ -3,7 +3,7 @@ Version:	56105
 Release:	2
 Summary:	Select pages of a document for output
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pagesel
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pagesel
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pagesel.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pagesel.doc.r%{version}.tar.xz
